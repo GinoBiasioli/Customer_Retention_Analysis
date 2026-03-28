@@ -1,4 +1,4 @@
-# Customer Retention Analysis
+# Customer Retention and Value Analysis
 
 A project exploring customer value, retention, and purchasing behavior in an e-commerce setting using the Online Retail dataset.
 
